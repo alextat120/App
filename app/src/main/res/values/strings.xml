@@ -1,0 +1,27 @@
+<resources>
+    <string name="app_name">App</string>
+
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="bigButtonText">click</string>
+    <string name="text">progress bar</string>
+    <string name="smallButtonText">DON\'T click</string>
+    <string name="clickEdit">Click here to edit</string>
+    <string name="percentText">%complete</string>
+    <string name="percentNum">0</string>
+    <string name="title_activity_end">Complete!!!</string>
+    <string name="title_activity_settings">Select Difficulty</string>
+    <string name="startButton">Start</string>
+    <string name="playAgain">Play Again</string>
+    <string name="scoreText">Score text here</string>
+    <string name="enterName">Enter Name</string>
+    <string name="finalScoreString">Your score is</string>
+    <string name="userScoreString">You got this score</string>
+    <string-array name="difficulty">
+        <item>Easy</item>
+        <item>Normal</item>
+        <item>Hard</item>
+        <item>Extreme</item>
+    </string-array>
+
+</resources>
